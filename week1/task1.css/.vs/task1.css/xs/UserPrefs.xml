@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{D40B4B1A-21CF-4AF5-A472-4621AF6ED3F6}|Default">
-  <MonoDevelop.Ide.ItemProperties.task1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="task1/Program.cs">
+﻿<Properties StartupConfiguration="{FDD0EF40-9573-411F-A09B-3A68B9795725}|Default">
+  <MonoDevelop.Ide.ItemProperties.task1.css PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task1.css/Program.cs">
     <Files>
-      <File FileName="task1/Program.cs" Line="8" Column="10" />
+      <File FileName="task1.css/Program.cs" Line="32" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -1,0 +1,6 @@
+/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/obj/x86/Debug/task1.css.csprojAssemblyReference.cache
+/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/obj/x86/Debug/task1.css.csproj.CoreCompileInputs.cache
+/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/bin/Debug/task1.css.exe
+/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/bin/Debug/task1.css.pdb
+/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/obj/x86/Debug/task1.css.exe
+/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/obj/x86/Debug/task1.css.pdb
