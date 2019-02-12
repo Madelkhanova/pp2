@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{FDD0EF40-9573-411F-A09B-3A68B9795725}|Default">
-  <MonoDevelop.Ide.ItemProperties.task1.css PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="task1.css/Program.cs">
+﻿<Properties StartupConfiguration="{896C0136-DB05-456F-B87B-CEC93B12BAE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="task3_lab1/Program.cs">
     <Files>
-      <File FileName="task1.css/Program.cs" Line="8" Column="3" />
+      <File FileName="task3_lab1/Program.cs" Line="1" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.task3__lab1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
