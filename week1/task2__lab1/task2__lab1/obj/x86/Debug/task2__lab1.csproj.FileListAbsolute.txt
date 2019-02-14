@@ -1,0 +1,6 @@
+/Users/aruzhan/Desktop/pp2/week1/task2__lab1/task2__lab1/obj/x86/Debug/task2__lab1.csprojAssemblyReference.cache
+/Users/aruzhan/Desktop/pp2/week1/task2__lab1/task2__lab1/obj/x86/Debug/task2__lab1.csproj.CoreCompileInputs.cache
+/Users/aruzhan/Desktop/pp2/week1/task2__lab1/task2__lab1/bin/Debug/task2__lab1.exe
+/Users/aruzhan/Desktop/pp2/week1/task2__lab1/task2__lab1/bin/Debug/task2__lab1.pdb
+/Users/aruzhan/Desktop/pp2/week1/task2__lab1/task2__lab1/obj/x86/Debug/task2__lab1.exe
+/Users/aruzhan/Desktop/pp2/week1/task2__lab1/task2__lab1/obj/x86/Debug/task2__lab1.pdb
