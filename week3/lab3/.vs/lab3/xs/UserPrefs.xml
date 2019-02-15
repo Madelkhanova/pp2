@@ -1,11 +1,16 @@
 ﻿<Properties StartupConfiguration="{4C11F972-42C1-4F2B-A706-DAAF279B5EC7}|Default">
   <MonoDevelop.Ide.ItemProperties.lab3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../week 2/task1_lab2/task1_lab2/Program.cs">
     <Files>
       <File FileName="../../week 2/task2_lab2/task2_lab2/Program.cs" Line="31" Column="26" />
       <File FileName="../../week 2/task3_lab2/task3_lab2/Program.cs" Line="21" Column="14" />
       <File FileName="../../week 2/task4_lab2/task4_lab2/Program.cs" Line="12" Column="86" />
-      <File FileName="lab3/Program.cs" Line="1" Column="1" />
+      <File FileName="../../week1/task1.css/task1.css/Program.cs" Line="9" Column="10" />
+      <File FileName="../../week1/task4_lab1/task4_lab1/Program.cs" Line="18" Column="18" />
+      <File FileName="lab3/Program.cs" Line="141" Column="2" />
+      <File FileName="../../week1/task3_lab1/task3_lab1/Program.cs" Line="1" Column="1" />
+      <File FileName="../../week1/task2__lab1/task2__lab1/Program.cs" Line="41" Column="46" />
+      <File FileName="../../week 2/task1_lab2/task1_lab2/Program.cs" Line="29" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

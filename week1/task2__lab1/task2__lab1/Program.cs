@@ -15,6 +15,11 @@ namespace task2__lab1
             name = n;//name мы присваиваем n
             this.id = id;//id присваиваем id
         }
+        public Student(string s, int id, int age) {
+            name = s;
+            this.id = id;
+            yearofstudy = age;
+        }
         public int getId()//в связи с тем что id является private
         {
             return this.id;//мы вызываем его для работы с id
@@ -29,8 +34,9 @@ namespace task2__lab1
         public static void Main(string[] args)
         {
             Student s = new Student("a", 1);
+            Student s2 = new Student("B", 10, 1);
             Console.WriteLine(s.getId());
-            s.getId();
+            //s.getId();
             s.incrementYearOfStudy();
             Console.WriteLine(s.yearofstudy);
 

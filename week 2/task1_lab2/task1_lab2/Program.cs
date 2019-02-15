@@ -7,8 +7,16 @@ namespace task1_lab2
     {
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader("/Users/aruzhan/Desktop/pp2/week1/task1.css/task1.css/bin/Debug/1.rtf");//для того чтобы считать с файла
+            StreamReader sr = new StreamReader(@"/Users/aruzhan/Desktop/pp2/text.rtf");//для того чтобы считать с файла
             string s = sr.ReadLine();//считываем одну стоку так как мы имеем  только одно слово
+            Console.WriteLine(s);
+            //string s;
+            //using (FileStream fs = new FileStream(@"/Users/aruzhan/Desktop/pp2/text.rtf", FileMode.Open))
+            //{
+            //    byte[] arr = new byte[fs.Length];
+            //    fs.Read(arr, 0, arr.Length);
+            //    s = System.Text.Encoding.Default.GetString(arr, arr.Length, System.Text.Encoding.Default.GetBytesCount();
+            //}
             bool isPalin = true;//создаем переменную bool которая равна true
             for (int i = 0; i < s.Length / 2; i++)//пробегаемся по длине слова
             {
@@ -29,4 +37,4 @@ namespace task1_lab2
             Console.ReadKey();
         }
     }
-}eghmn
+}
