@@ -1,0 +1,6 @@
+/Users/aruzhan/Desktop/pp2/week3/task3_3/task3_3/bin/Debug/task3_3.exe
+/Users/aruzhan/Desktop/pp2/week3/task3_3/task3_3/bin/Debug/task3_3.pdb
+/Users/aruzhan/Desktop/pp2/week3/task3_3/task3_3/obj/x86/Debug/task3_3.csprojAssemblyReference.cache
+/Users/aruzhan/Desktop/pp2/week3/task3_3/task3_3/obj/x86/Debug/task3_3.csproj.CoreCompileInputs.cache
+/Users/aruzhan/Desktop/pp2/week3/task3_3/task3_3/obj/x86/Debug/task3_3.exe
+/Users/aruzhan/Desktop/pp2/week3/task3_3/task3_3/obj/x86/Debug/task3_3.pdb
